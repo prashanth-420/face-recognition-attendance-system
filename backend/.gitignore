@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Face data
+app/face/data/
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Screenshots
+screenshot_*.png
+
+# Logs
+*.log
